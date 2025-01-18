@@ -1,8 +1,9 @@
 # Haskell Projects
 
-Bem-vindo ao repositório de projetos em Haskell! 🎉
+Bem-vindo ao repositório de projetos em Haskell da matéria de Paradigmas da Programação.
 
 Este repositório contém exemplos, exercícios e projetos desenvolvidos utilizando a linguagem funcional Haskell. Ele foi criado para aprender, explorar e compartilhar conhecimentos sobre Haskell.
+
 
 ## 📋 Conteúdo
 
